@@ -3,13 +3,14 @@ import { Row, Col } from 'react-bootstrap'
 import products from '../products'
 import Product from '../components/Product'
 import Topfilter from '../components/TopFilter'
+import SideFilter from '../components/SideFilter'
 
 const HomePage = () => {
   return (
     <>
       <Row>
         <Col md={3} sm={6} xs={3}>
-          test
+          <SideFilter />
         </Col>
         <Col>
           <Row>
