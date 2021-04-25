@@ -3,6 +3,7 @@ import { Container } from 'react-bootstrap'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import HomePage from './pages/HomePage'
+import PaginationComponent from './components/Paging'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <main className='py-5 '>
         <Container>
           <h1>Welcome to Val Guitare Shop</h1>
+          <PaginationComponent />
           <HomePage />
         </Container>
       </main>
