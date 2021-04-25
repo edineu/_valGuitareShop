@@ -115,7 +115,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/455368.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -123,7 +123,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/333056.jpg",
+                "file": "333056.jpg",
                 "width": "139",
                 "height": "400",
                 "exists": true
@@ -182,7 +182,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -190,7 +190,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455368.jpg",
+                "file": "455368.jpg",
                 "width": "148",
                 "height": "400",
                 "exists": true
@@ -249,7 +249,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -257,7 +257,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485842.jpg",
+                "file": "485842.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -316,7 +316,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -324,7 +324,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455375.jpg",
+                "file": "455375.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -383,7 +383,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -391,7 +391,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455373.jpg",
+                "file": "455373.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -450,7 +450,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -458,7 +458,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485843.jpg",
+                "file": "485843.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -517,7 +517,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -525,7 +525,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/388559.jpg",
+                "file": "388559.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -584,7 +584,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -592,7 +592,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/378005.jpg",
+                "file": "378005.jpg",
                 "width": "158",
                 "height": "400",
                 "exists": true
@@ -651,7 +651,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -659,7 +659,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455357.jpg",
+                "file": "455357.jpg",
                 "width": "143",
                 "height": "400",
                 "exists": true
@@ -718,7 +718,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -726,7 +726,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455377.jpg",
+                "file": "455377.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -785,7 +785,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -793,7 +793,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455374.jpg",
+                "file": "455374.jpg",
                 "width": "158",
                 "height": "400",
                 "exists": true
@@ -852,7 +852,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -860,7 +860,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/482475.jpg",
+                "file": "482475.jpg",
                 "width": "156",
                 "height": "400",
                 "exists": true
@@ -919,7 +919,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -927,7 +927,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/388542.jpg",
+                "file": "388542.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -986,7 +986,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -994,7 +994,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/450757.jpg",
+                "file": "450757.jpg",
                 "width": "146",
                 "height": "400",
                 "exists": true
@@ -1053,7 +1053,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -1061,7 +1061,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/486306.jpg",
+                "file": "486306.jpg",
                 "width": "140",
                 "height": "400",
                 "exists": true
@@ -1120,7 +1120,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1128,7 +1128,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/377932.jpg",
+                "file": "377932.jpg",
                 "width": "148",
                 "height": "400",
                 "exists": true
@@ -1187,7 +1187,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1195,7 +1195,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455359.jpg",
+                "file": "455359.jpg",
                 "width": "131",
                 "height": "400",
                 "exists": true
@@ -1254,7 +1254,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1262,7 +1262,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/388546.jpg",
+                "file": "388546.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -1321,7 +1321,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -1329,7 +1329,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/367306.jpg",
+                "file": "367306.jpg",
                 "width": "400",
                 "height": "400",
                 "exists": true
@@ -1388,7 +1388,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -1396,7 +1396,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485841.jpg",
+                "file": "485841.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -1455,7 +1455,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -1463,7 +1463,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/482472.jpg",
+                "file": "482472.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -1522,7 +1522,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1530,7 +1530,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/388548.jpg",
+                "file": "388548.jpg",
                 "width": "152",
                 "height": "400",
                 "exists": true
@@ -1589,7 +1589,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -1597,7 +1597,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/484476.jpg",
+                "file": "484476.jpg",
                 "width": "143",
                 "height": "400",
                 "exists": true
@@ -1656,7 +1656,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -1664,7 +1664,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/458278.jpg",
+                "file": "458278.jpg",
                 "width": "139",
                 "height": "400",
                 "exists": true
@@ -1723,7 +1723,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -1731,7 +1731,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/494991.jpg",
+                "file": "494991.jpg",
                 "width": "139",
                 "height": "400",
                 "exists": true
@@ -1790,7 +1790,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1798,7 +1798,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455381.jpg",
+                "file": "455381.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -1857,7 +1857,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -1865,7 +1865,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/357247.jpg",
+                "file": "357247.jpg",
                 "width": "132",
                 "height": "400",
                 "exists": true
@@ -1924,7 +1924,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -1932,7 +1932,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/378839.jpg",
+                "file": "378839.jpg",
                 "width": "156",
                 "height": "400",
                 "exists": true
@@ -1991,7 +1991,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -1999,7 +1999,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/443246.jpg",
+                "file": "443246.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -2058,7 +2058,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2066,7 +2066,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/498387.jpg",
+                "file": "498387.jpg",
                 "width": "126",
                 "height": "400",
                 "exists": true
@@ -2125,7 +2125,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2133,7 +2133,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485870.jpg",
+                "file": "485870.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -2192,7 +2192,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -2200,7 +2200,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/439646.jpg",
+                "file": "439646.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -2259,7 +2259,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2267,7 +2267,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/378247.jpg",
+                "file": "378247.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -2326,7 +2326,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -2334,7 +2334,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/262469.jpg",
+                "file": "262469.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -2393,7 +2393,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2401,7 +2401,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/258027.jpg",
+                "file": "258027.jpg",
                 "width": "156",
                 "height": "400",
                 "exists": true
@@ -2460,7 +2460,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2468,7 +2468,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455379.jpg",
+                "file": "455379.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -2527,7 +2527,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -2535,7 +2535,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/233395.jpg",
+                "file": "233395.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -2594,7 +2594,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -2602,7 +2602,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/312960.jpg",
+                "file": "312960.jpg",
                 "width": "132",
                 "height": "400",
                 "exists": true
@@ -2661,7 +2661,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -2669,7 +2669,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/406427.jpg",
+                "file": "406427.jpg",
                 "width": "131",
                 "height": "400",
                 "exists": true
@@ -2728,7 +2728,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -2736,7 +2736,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/233301.jpg",
+                "file": "233301.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -2795,7 +2795,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -2803,7 +2803,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/406361.jpg",
+                "file": "406361.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -2862,7 +2862,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -2870,7 +2870,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/443739.jpg",
+                "file": "443739.jpg",
                 "width": "147",
                 "height": "400",
                 "exists": true
@@ -2929,7 +2929,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -2937,7 +2937,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/330562.jpg",
+                "file": "330562.jpg",
                 "width": "154",
                 "height": "400",
                 "exists": true
@@ -2996,7 +2996,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3004,7 +3004,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/388557.jpg",
+                "file": "388557.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -3063,7 +3063,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -3071,7 +3071,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/486042.jpg",
+                "file": "486042.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -3130,7 +3130,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3138,7 +3138,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/377920.jpg",
+                "file": "377920.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -3197,7 +3197,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3205,7 +3205,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/378230.jpg",
+                "file": "378230.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -3264,7 +3264,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -3272,7 +3272,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455973.jpg",
+                "file": "455973.jpg",
                 "width": "147",
                 "height": "400",
                 "exists": true
@@ -3331,7 +3331,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3339,7 +3339,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455367.jpg",
+                "file": "455367.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -3398,7 +3398,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -3406,7 +3406,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/494989.jpg",
+                "file": "494989.jpg",
                 "width": "139",
                 "height": "400",
                 "exists": true
@@ -3465,7 +3465,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -3473,7 +3473,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/464080.jpg",
+                "file": "464080.jpg",
                 "width": "141",
                 "height": "400",
                 "exists": true
@@ -3532,7 +3532,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3540,7 +3540,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/481801.jpg",
+                "file": "481801.jpg",
                 "width": "151",
                 "height": "400",
                 "exists": true
@@ -3599,7 +3599,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -3607,7 +3607,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/484699.jpg",
+                "file": "484699.jpg",
                 "width": "136",
                 "height": "400",
                 "exists": true
@@ -3666,7 +3666,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -3674,7 +3674,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/459844.jpg",
+                "file": "459844.jpg",
                 "width": "156",
                 "height": "400",
                 "exists": true
@@ -3733,7 +3733,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3741,7 +3741,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455385.jpg",
+                "file": "455385.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -3800,7 +3800,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3808,7 +3808,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485934.jpg",
+                "file": "485934.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -3867,7 +3867,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -3875,7 +3875,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/416223.jpg",
+                "file": "416223.jpg",
                 "width": "400",
                 "height": "378",
                 "exists": true
@@ -3934,7 +3934,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -3942,7 +3942,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/352386.jpg",
+                "file": "352386.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -4001,7 +4001,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -4009,7 +4009,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/164528.jpg",
+                "file": "164528.jpg",
                 "width": "144",
                 "height": "400",
                 "exists": true
@@ -4068,7 +4068,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -4076,7 +4076,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/499736.jpg",
+                "file": "499736.jpg",
                 "width": "154",
                 "height": "400",
                 "exists": true
@@ -4135,7 +4135,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -4143,7 +4143,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/445681.jpg",
+                "file": "445681.jpg",
                 "width": "155",
                 "height": "400",
                 "exists": true
@@ -4202,7 +4202,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -4210,7 +4210,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/406397.jpg",
+                "file": "406397.jpg",
                 "width": "153",
                 "height": "400",
                 "exists": true
@@ -4269,7 +4269,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -4277,7 +4277,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/460231.jpg",
+                "file": "460231.jpg",
                 "width": "148",
                 "height": "400",
                 "exists": true
@@ -4336,7 +4336,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -4344,7 +4344,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/369321.jpg",
+                "file": "369321.jpg",
                 "width": "400",
                 "height": "400",
                 "exists": true
@@ -4403,7 +4403,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -4411,7 +4411,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/305553.jpg",
+                "file": "305553.jpg",
                 "width": "147",
                 "height": "400",
                 "exists": true
@@ -4470,7 +4470,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -4478,7 +4478,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/383679.jpg",
+                "file": "383679.jpg",
                 "width": "145",
                 "height": "400",
                 "exists": true
@@ -4537,7 +4537,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -4545,7 +4545,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/325892.jpg",
+                "file": "325892.jpg",
                 "width": "147",
                 "height": "400",
                 "exists": true
@@ -4604,7 +4604,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -4612,7 +4612,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/233311.jpg",
+                "file": "233311.jpg",
                 "width": "131",
                 "height": "400",
                 "exists": true
@@ -4671,7 +4671,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -4679,7 +4679,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/481585.jpg",
+                "file": "481585.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -4738,7 +4738,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -4746,7 +4746,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/428939.jpg",
+                "file": "428939.jpg",
                 "width": "137",
                 "height": "400",
                 "exists": true
@@ -4805,7 +4805,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -4813,7 +4813,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/441672.jpg",
+                "file": "441672.jpg",
                 "width": "155",
                 "height": "400",
                 "exists": true
@@ -4872,7 +4872,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -4880,7 +4880,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/428945.jpg",
+                "file": "428945.jpg",
                 "width": "144",
                 "height": "400",
                 "exists": true
@@ -4939,7 +4939,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -4947,7 +4947,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/483717.jpg",
+                "file": "483717.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -5006,7 +5006,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -5014,7 +5014,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/243830.jpg",
+                "file": "243830.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -5073,7 +5073,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -5081,7 +5081,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/277945.jpg",
+                "file": "277945.jpg",
                 "width": "145",
                 "height": "400",
                 "exists": true
@@ -5140,7 +5140,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -5148,7 +5148,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/481799.jpg",
+                "file": "481799.jpg",
                 "width": "158",
                 "height": "400",
                 "exists": true
@@ -5207,7 +5207,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -5215,7 +5215,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/486305.jpg",
+                "file": "486305.jpg",
                 "width": "140",
                 "height": "400",
                 "exists": true
@@ -5274,7 +5274,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -5282,7 +5282,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/483714.jpg",
+                "file": "483714.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -5341,7 +5341,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -5349,7 +5349,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/483729.jpg",
+                "file": "483729.jpg",
                 "width": "159",
                 "height": "400",
                 "exists": true
@@ -5408,7 +5408,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -5416,7 +5416,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/168419.jpg",
+                "file": "168419.jpg",
                 "width": "157",
                 "height": "400",
                 "exists": true
@@ -5475,7 +5475,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -5483,7 +5483,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/270125.jpg",
+                "file": "270125.jpg",
                 "width": "152",
                 "height": "400",
                 "exists": true
@@ -5542,7 +5542,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -5550,7 +5550,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/264615.jpg",
+                "file": "264615.jpg",
                 "width": "152",
                 "height": "400",
                 "exists": true
@@ -5609,7 +5609,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -5617,7 +5617,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/428924.jpg",
+                "file": "428924.jpg",
                 "width": "145",
                 "height": "400",
                 "exists": true
@@ -5676,7 +5676,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -5684,7 +5684,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455873.jpg",
+                "file": "455873.jpg",
                 "width": "154",
                 "height": "400",
                 "exists": true
@@ -5743,7 +5743,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -5751,7 +5751,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/331815.jpg",
+                "file": "331815.jpg",
                 "width": "148",
                 "height": "400",
                 "exists": true
@@ -5810,7 +5810,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -5818,7 +5818,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/464079.jpg",
+                "file": "464079.jpg",
                 "width": "141",
                 "height": "400",
                 "exists": true
@@ -5877,7 +5877,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -5885,7 +5885,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/357362.jpg",
+                "file": "357362.jpg",
                 "width": "206",
                 "height": "533",
                 "exists": true
@@ -5944,7 +5944,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -5952,7 +5952,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/484153.jpg",
+                "file": "484153.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -6011,7 +6011,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -6019,7 +6019,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/428995.jpg",
+                "file": "428995.jpg",
                 "width": "146",
                 "height": "400",
                 "exists": true
@@ -6078,7 +6078,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -6086,7 +6086,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/279533.jpg",
+                "file": "279533.jpg",
                 "width": "130",
                 "height": "400",
                 "exists": true
@@ -6145,7 +6145,7 @@
                 "name": "Gibson",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gibson.jpg",
+                    "file": "gibson.jpg",
                     "width": "96",
                     "height": "60",
                     "exists": true
@@ -6153,7 +6153,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/488291.jpg",
+                "file": "488291.jpg",
                 "width": "153",
                 "height": "400",
                 "exists": true
@@ -6212,7 +6212,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -6220,7 +6220,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/485928.jpg",
+                "file": "485928.jpg",
                 "width": "141",
                 "height": "400",
                 "exists": true
@@ -6279,7 +6279,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -6287,7 +6287,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/481609.jpg",
+                "file": "481609.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -6346,7 +6346,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -6354,7 +6354,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/455378.jpg",
+                "file": "455378.jpg",
                 "width": "149",
                 "height": "400",
                 "exists": true
@@ -6413,7 +6413,7 @@
                 "name": "Epiphone",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/epiphone.jpg",
+                    "file": "epiphone.jpg",
                     "width": "140",
                     "height": "47",
                     "exists": true
@@ -6421,7 +6421,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/470182.jpg",
+                "file": "470182.jpg",
                 "width": "153",
                 "height": "400",
                 "exists": true
@@ -6480,7 +6480,7 @@
                 "name": "Guild",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/guild.jpg",
+                    "file": "guild.jpg",
                     "width": "36",
                     "height": "60",
                     "exists": true
@@ -6488,7 +6488,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/500024.jpg",
+                "file": "500024.jpg",
                 "width": "160",
                 "height": "400",
                 "exists": true
@@ -6547,7 +6547,7 @@
                 "name": "Gretsch",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/gretsch.jpg",
+                    "file": "gretsch.jpg",
                     "width": "69",
                     "height": "60",
                     "exists": true
@@ -6555,7 +6555,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/498395.jpg",
+                "file": "498395.jpg",
                 "width": "129",
                 "height": "400",
                 "exists": true
@@ -6614,7 +6614,7 @@
                 "name": "Ibanez",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/ibanez.jpg",
+                    "file": "ibanez.jpg",
                     "width": "140",
                     "height": "34",
                     "exists": true
@@ -6622,7 +6622,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/160559.jpg",
+                "file": "160559.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true
@@ -6681,7 +6681,7 @@
                 "name": "DAngelico",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/dangelico.jpg",
+                    "file": "dangelico.jpg",
                     "width": "140",
                     "height": "43",
                     "exists": true
@@ -6689,7 +6689,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/464073.jpg",
+                "file": "464073.jpg",
                 "width": "138",
                 "height": "400",
                 "exists": true
@@ -6748,7 +6748,7 @@
                 "name": "Duesenberg",
                 "articleCount": 0,
                 "image": {
-                    "file": "/images/duesenberg.jpg",
+                    "file": "duesenberg.jpg",
                     "width": "140",
                     "height": "52",
                     "exists": true
@@ -6756,7 +6756,7 @@
             },
             "image": {
                 "type": "PRODBILD",
-                "file": "/images/380678.jpg",
+                "file": "380678.jpg",
                 "width": "150",
                 "height": "400",
                 "exists": true

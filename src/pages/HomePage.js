@@ -2,6 +2,7 @@ import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import products from '../products'
 import Product from '../components/Product'
+import Topfilter from '../components/TopFilter'
 
 const HomePage = () => {
   return (
@@ -12,7 +13,9 @@ const HomePage = () => {
         </Col>
         <Col>
           <Row>
-            <Col>test</Col>
+            <Col>
+              <Topfilter />
+            </Col>
           </Row>
           <Row>
             {products.articles.map((articles) => (

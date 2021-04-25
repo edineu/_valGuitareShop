@@ -6,7 +6,9 @@ const Header = () => {
     <header>
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
-          <Navbar.Brand href='/'>Val Guitare Shop</Navbar.Brand>
+          <Navbar.Brand href='/'>
+            <i className='fas fa-guitar'></i> Val Guitare Shop
+          </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
             <Nav className='ml-auto'>
